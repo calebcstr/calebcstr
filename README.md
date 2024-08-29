@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Sports**
 
-- 📫 How to reach me **hdcastro@gmail.com**
+- 📫 How to reach me **hdcastro@up.edu.ph**
 
 - 😄 Pronouns: **He/Him**
 
