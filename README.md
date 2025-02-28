@@ -1,21 +1,10 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">An aspiring software developer from the Philippines</h3>
 
-- 🔭 I’m currently working on [Exercise 01 - Git](https://github.com/calebcstr/calebcstr.git)
-
-- 🌱 I’m currently learning **Web Development**
-
-- 👯 I’m looking to collaborate on **The CMSC 100 project soon**
-
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
-
-- 💬 Ask me about **Sports**
+- BS Computer Science Junior at the University of the Philippines Los Baños
 
 - 📫 How to reach me **hdcastro@up.edu.ph**
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun fact **I like to sleep a lot**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
