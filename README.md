@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">An aspiring software developer from the Philippines</h3>
 
-- BS Computer Science Junior at the University of the Philippines Los Baños
+- BS Computer Science at the University of the Philippines Los Baños (UPLB)
 
-- 📫 How to reach me **hdcastro@up.edu.ph**
+- 📫 How to reach me **hancaleb3@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
